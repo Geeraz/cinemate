@@ -23,7 +23,7 @@ export const Footer = () => {
         </li>
         <li>
           <a
-            href="#"
+            href="https://youtube.com/"
             target="_blank"
             className="mr-4 hover:underline md:mr-6"
             rel="noreferrer"
